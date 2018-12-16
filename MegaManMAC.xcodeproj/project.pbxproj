@@ -834,7 +834,7 @@
 				CODE_SIGN_ENTITLEMENTS = MegaManMAC/MegaManMAC.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 5G8PY3T64V;
 				INFOPLIST_FILE = MegaManMAC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
@@ -851,7 +851,7 @@
 				CODE_SIGN_ENTITLEMENTS = MegaManMAC/MegaManMAC.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 5G8PY3T64V;
 				INFOPLIST_FILE = MegaManMAC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
