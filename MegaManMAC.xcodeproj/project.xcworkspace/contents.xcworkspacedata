@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Volumes/My Passport for Mac/Content/MegaManMAC/megaman_2.ttf">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>

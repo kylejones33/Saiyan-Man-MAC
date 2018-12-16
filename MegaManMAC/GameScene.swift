@@ -46,7 +46,6 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     
     var openingMusic = SKAudioNode(fileNamed: "Flash Man Stage Music.mp3")
     
-    //    private var SCALEVALUE: CGFloat = 0.32
     private var SCALEVALUEX: CGFloat = 0.25
     private var SCALEVALUEY: CGFloat = 0.31
     private var MAX_MAP_X: CGFloat = 1824
@@ -134,7 +133,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         let fadeOut = SKAction.fadeOut(withDuration: 0.1)
         let fadeIn = SKAction.fadeIn(withDuration: 0.1)
         let flashAction = SKAction.sequence([fadeIn, fadeOut])
-        let flash = SKAction.repeat(flashAction, count: 5)
+        let flash = SKAction.repeat(flashAction, count: 10)
         
         //Run the flash action on the "Ready" level, then add Goku to the scene
         ready.run(flash, completion: addPlayers)

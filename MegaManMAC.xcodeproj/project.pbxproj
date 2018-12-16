@@ -51,43 +51,19 @@
 		AB1C26C6219CC81A009BCCF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB1C269C219CC81A009BCCF0 /* Assets.xcassets */; };
 		AB1C26C7219CC81A009BCCF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB1C269D219CC81A009BCCF0 /* Main.storyboard */; };
 		AB1C26C8219CC81A009BCCF0 /* buster0.png in Resources */ = {isa = PBXBuildFile; fileRef = AB1C269F219CC81A009BCCF0 /* buster0.png */; };
-		AB1C26C9219CC81A009BCCF0 /* Buster1.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A0219CC81A009BCCF0 /* Buster1.wav */; };
-		AB1C26CA219CC81A009BCCF0 /* BusterExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A1219CC81A009BCCF0 /* BusterExplosion.sks */; };
-		AB1C26CB219CC81A009BCCF0 /* BusterParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A2219CC81A009BCCF0 /* BusterParticle.sks */; };
 		AB1C26CC219CC81A009BCCF0 /* CameraActions.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A3219CC81A009BCCF0 /* CameraActions.sks */; };
-		AB1C26CD219CC81A009BCCF0 /* ChargeBeamExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A4219CC81A009BCCF0 /* ChargeBeamExplosion.sks */; };
-		AB1C26CE219CC81A009BCCF0 /* ChargeBuster.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A5219CC81A009BCCF0 /* ChargeBuster.sks */; };
-		AB1C26CF219CC81A009BCCF0 /* ChargeUp.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A6219CC81A009BCCF0 /* ChargeUp.sks */; };
-		AB1C26D0219CC81A009BCCF0 /* Deflect_Buster.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A7219CC81A009BCCF0 /* Deflect_Buster.wav */; };
-		AB1C26D1219CC81A009BCCF0 /* Flash Man Stage Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A8219CC81A009BCCF0 /* Flash Man Stage Music.mp3 */; };
 		AB1C26D2219CC81A009BCCF0 /* FlashMapTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26A9219CC81A009BCCF0 /* FlashMapTileSet.sks */; };
-		AB1C26D3219CC81A009BCCF0 /* AtariSmall.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26AB219CC81A009BCCF0 /* AtariSmall.ttf */; };
-		AB1C26D4219CC81A009BCCF0 /* Mega-Man-ZX.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26AC219CC81A009BCCF0 /* Mega-Man-ZX.ttf */; };
 		AB1C26D5219CC81A009BCCF0 /* megaman_2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26AD219CC81A009BCCF0 /* megaman_2.ttf */; };
 		AB1C26D6219CC81A009BCCF0 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26AE219CC81A009BCCF0 /* GameScene.sks */; };
 		AB1C26D7219CC81A009BCCF0 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26AF219CC81A009BCCF0 /* GameScene.swift */; };
 		AB1C26D8219CC81A009BCCF0 /* Goku.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26B0219CC81A009BCCF0 /* Goku.swift */; };
 		AB1C26D9219CC81A009BCCF0 /* GokuStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26B1219CC81A009BCCF0 /* GokuStateMachine.swift */; };
 		AB1C26DA219CC81A009BCCF0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26B2219CC81A009BCCF0 /* Info.plist */; };
-		AB1C26DB219CC81A009BCCF0 /* LargeBusterExplosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26B3219CC81A009BCCF0 /* LargeBusterExplosion.sks */; };
 		AB1C26DC219CC81A009BCCF0 /* MegaMan.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26B4219CC81A009BCCF0 /* MegaMan.swift */; };
-		AB1C26DD219CC81A009BCCF0 /* MegamanAura.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26B5219CC81A009BCCF0 /* MegamanAura.sks */; };
-		AB1C26DE219CC81A009BCCF0 /* MegamanDefeat.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26B6219CC81A009BCCF0 /* MegamanDefeat.wav */; };
 		AB1C26DF219CC81A009BCCF0 /* MegaManStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26B8219CC81A009BCCF0 /* MegaManStateMachine.swift */; };
 		AB1C26E0219CC81A009BCCF0 /* Met.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26B9219CC81A009BCCF0 /* Met.swift */; };
 		AB1C26E1219CC81A009BCCF0 /* MM_Enemy_Hit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26BA219CC81A009BCCF0 /* MM_Enemy_Hit.mp3 */; };
-		AB1C26E2219CC81A009BCCF0 /* MM_Hurt.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26BB219CC81A009BCCF0 /* MM_Hurt.wav */; };
-		AB1C26E3219CC81A009BCCF0 /* MM_Land.wav in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26BC219CC81A009BCCF0 /* MM_Land.wav */; };
-		AB1C26E4219CC81A009BCCF0 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26BD219CC81A009BCCF0 /* MyParticle.sks */; };
-		AB1C26E6219CC81B009BCCF0 /* TransformUI.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26BF219CC81A009BCCF0 /* TransformUI.sks */; };
-		AB1C26E7219CC81B009BCCF0 /* UIMove.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26C0219CC81A009BCCF0 /* UIMove.sks */; };
-		AB1C26E8219CC81B009BCCF0 /* UIMoveMAC.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26C1219CC81A009BCCF0 /* UIMoveMAC.sks */; };
-		AB1C26E9219CC81B009BCCF0 /* UITransform.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB1C26C2219CC81A009BCCF0 /* UITransform.mp3 */; };
 		AB1C26EA219CC81B009BCCF0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1C26C3219CC81A009BCCF0 /* ViewController.swift */; };
-		AB2AD4FD21B80E670099552C /* BG3.png in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD4F921B80E670099552C /* BG3.png */; };
-		AB2AD4FE21B80E670099552C /* BG4.png in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD4FA21B80E670099552C /* BG4.png */; };
-		AB2AD4FF21B80E670099552C /* BG1.png in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD4FB21B80E670099552C /* BG1.png */; };
-		AB2AD50021B80E670099552C /* BG2.png in Resources */ = {isa = PBXBuildFile; fileRef = AB2AD4FC21B80E670099552C /* BG2.png */; };
 		AB4095BA20C483350014F553 /* MegaMan.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4095B920C483350014F553 /* MegaMan.swift */; };
 		AB4095BC20C4947E0014F553 /* MegaManStateMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4095BB20C4947E0014F553 /* MegaManStateMachine.swift */; };
 		AB5480542157F6E0004043BD /* ChargeBuster.sks in Resources */ = {isa = PBXBuildFile; fileRef = AB5480532157F6DF004043BD /* ChargeBuster.sks */; };
@@ -115,6 +91,7 @@
 		ABB3A57920A47C430031D0AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABB3A57720A47C430031D0AF /* Main.storyboard */; };
 		ABB3A58220A47D800031D0AF /* FlashMapTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = ABB3A58120A47D800031D0AF /* FlashMapTileSet.sks */; };
 		ABB735862183619300FC5640 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = ABB735852183619300FC5640 /* MyParticle.sks */; };
+		ABC6510721C6FEA300D90C90 /* megaman_2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ABC6510621C6FEA300D90C90 /* megaman_2.ttf */; };
 		ABDAA690219CCB03004FCA02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABDAA68F219CCB03004FCA02 /* Main.storyboard */; };
 		ABDAA692219CD56B004FCA02 /* Final Death.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ABDAA691219CD56A004FCA02 /* Final Death.mp3 */; };
 		ABE329A520B8E5C000508941 /* BusterParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = ABE329A320B8E5C000508941 /* BusterParticle.sks */; };
@@ -133,9 +110,6 @@
 		ABE329C420BF4D8300508941 /* MegamanDefeat.wav in Resources */ = {isa = PBXBuildFile; fileRef = ABE329C320BF4D8200508941 /* MegamanDefeat.wav */; };
 		ABE329C620C0A3F900508941 /* CameraActions.sks in Resources */ = {isa = PBXBuildFile; fileRef = ABE329C520C0A3F700508941 /* CameraActions.sks */; };
 		ABE329C820C3FC0500508941 /* UIMove.sks in Resources */ = {isa = PBXBuildFile; fileRef = ABE329C720C3FC0500508941 /* UIMove.sks */; };
-		ABF99D30216A159C003E7FF9 /* Mega-Man-ZX.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ABF99D2F216A159C003E7FF9 /* Mega-Man-ZX.ttf */; };
-		ABF99D32216A15EB003E7FF9 /* AtariSmall.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ABF99D31216A15EB003E7FF9 /* AtariSmall.ttf */; };
-		ABF99D34216A1627003E7FF9 /* megaman_2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ABF99D33216A1627003E7FF9 /* megaman_2.ttf */; };
 		ABFF9A1D21BD2A330098F44E /* shotman4.png in Resources */ = {isa = PBXBuildFile; fileRef = ABFF9A1721BD2A310098F44E /* shotman4.png */; };
 		ABFF9A1E21BD2A330098F44E /* shotman0.png in Resources */ = {isa = PBXBuildFile; fileRef = ABFF9A1821BD2A310098F44E /* shotman0.png */; };
 		ABFF9A1F21BD2A330098F44E /* shotman1.png in Resources */ = {isa = PBXBuildFile; fileRef = ABFF9A1921BD2A320098F44E /* shotman1.png */; };
@@ -223,10 +197,10 @@
 		AB1C26C1219CC81A009BCCF0 /* UIMoveMAC.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = UIMoveMAC.sks; sourceTree = "<group>"; };
 		AB1C26C2219CC81A009BCCF0 /* UITransform.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = UITransform.mp3; sourceTree = "<group>"; };
 		AB1C26C3219CC81A009BCCF0 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		AB2AD4F921B80E670099552C /* BG3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG3.png; path = MegaManMAC/BG3.png; sourceTree = SOURCE_ROOT; };
-		AB2AD4FA21B80E670099552C /* BG4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG4.png; path = MegaManMAC/BG4.png; sourceTree = SOURCE_ROOT; };
-		AB2AD4FB21B80E670099552C /* BG1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG1.png; path = MegaManMAC/BG1.png; sourceTree = SOURCE_ROOT; };
-		AB2AD4FC21B80E670099552C /* BG2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG2.png; path = MegaManMAC/BG2.png; sourceTree = SOURCE_ROOT; };
+		AB2AD4F921B80E670099552C /* BG3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG3.png; path = "MegaManMAC/New Group/BG3.png"; sourceTree = SOURCE_ROOT; };
+		AB2AD4FA21B80E670099552C /* BG4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG4.png; path = "MegaManMAC/New Group/BG4.png"; sourceTree = SOURCE_ROOT; };
+		AB2AD4FB21B80E670099552C /* BG1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG1.png; path = "MegaManMAC/New Group/BG1.png"; sourceTree = SOURCE_ROOT; };
+		AB2AD4FC21B80E670099552C /* BG2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = BG2.png; path = "MegaManMAC/New Group/BG2.png"; sourceTree = SOURCE_ROOT; };
 		AB4095B920C483350014F553 /* MegaMan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MegaMan.swift; sourceTree = "<group>"; };
 		AB4095BB20C4947E0014F553 /* MegaManStateMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MegaManStateMachine.swift; sourceTree = "<group>"; };
 		AB5480532157F6DF004043BD /* ChargeBuster.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ChargeBuster.sks; sourceTree = "<group>"; };
@@ -257,8 +231,9 @@
 		ABB3A57B20A47C430031D0AF /* MegaManMAC.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MegaManMAC.entitlements; sourceTree = "<group>"; };
 		ABB3A58120A47D800031D0AF /* FlashMapTileSet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FlashMapTileSet.sks; sourceTree = "<group>"; };
 		ABB735852183619300FC5640 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
+		ABC6510621C6FEA300D90C90 /* megaman_2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = megaman_2.ttf; sourceTree = "<group>"; };
 		ABDAA68F219CCB03004FCA02 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		ABDAA691219CD56A004FCA02 /* Final Death.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Final Death.mp3"; path = "MegaManMAC/Final Death.mp3"; sourceTree = "<group>"; };
+		ABDAA691219CD56A004FCA02 /* Final Death.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Final Death.mp3"; sourceTree = "<group>"; };
 		ABE329A320B8E5C000508941 /* BusterParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BusterParticle.sks; sourceTree = "<group>"; };
 		ABE329A420B8E5C000508941 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABE329AB20BC78E800508941 /* Met.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Met.swift; sourceTree = "<group>"; };
@@ -275,12 +250,6 @@
 		ABE329C320BF4D8200508941 /* MegamanDefeat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MegamanDefeat.wav; sourceTree = "<group>"; };
 		ABE329C520C0A3F700508941 /* CameraActions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = CameraActions.sks; sourceTree = "<group>"; };
 		ABE329C720C3FC0500508941 /* UIMove.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = UIMove.sks; sourceTree = "<group>"; };
-		ABF99D2F216A159C003E7FF9 /* Mega-Man-ZX.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mega-Man-ZX.ttf"; sourceTree = "<group>"; };
-		ABF99D31216A15EB003E7FF9 /* AtariSmall.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AtariSmall.ttf; sourceTree = "<group>"; };
-		ABF99D33216A1627003E7FF9 /* megaman_2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = megaman_2.ttf; sourceTree = "<group>"; };
-		ABF99D35216A18EA003E7FF9 /* Mega-Man-ZX.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mega-Man-ZX.ttf"; path = "MegaManMAC/Fonts/Mega-Man-ZX.ttf"; sourceTree = "<group>"; };
-		ABF99D36216A18EA003E7FF9 /* megaman_2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = megaman_2.ttf; path = MegaManMAC/Fonts/megaman_2.ttf; sourceTree = "<group>"; };
-		ABF99D37216A18EA003E7FF9 /* AtariSmall.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AtariSmall.ttf; path = MegaManMAC/Fonts/AtariSmall.ttf; sourceTree = "<group>"; };
 		ABFF9A1721BD2A310098F44E /* shotman4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shotman4.png; sourceTree = "<group>"; };
 		ABFF9A1821BD2A310098F44E /* shotman0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shotman0.png; sourceTree = "<group>"; };
 		ABFF9A1921BD2A320098F44E /* shotman1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shotman1.png; sourceTree = "<group>"; };
@@ -358,16 +327,6 @@
 		ABB3A55F20A47C430031D0AF = {
 			isa = PBXGroup;
 			children = (
-				AB655DB821BD178C00AD1E64 /* Enemy.swift */,
-				AB555E3F21BD78FB00812C0B /* explosion1.png */,
-				AB555E4121BD78FC00812C0B /* explosion2.png */,
-				AB555E4221BD78FD00812C0B /* explosion3.png */,
-				AB555E4021BD78FC00812C0B /* explosion4.png */,
-				AB655DBA21BD1C7900AD1E64 /* ShotMan.swift */,
-				ABDAA691219CD56A004FCA02 /* Final Death.mp3 */,
-				ABF99D37216A18EA003E7FF9 /* AtariSmall.ttf */,
-				ABF99D35216A18EA003E7FF9 /* Mega-Man-ZX.ttf */,
-				ABF99D36216A18EA003E7FF9 /* megaman_2.ttf */,
 				ABE329A420B8E5C000508941 /* Assets.xcassets */,
 				ABB3A56A20A47C430031D0AF /* MegaManMAC */,
 				ABB3A56920A47C430031D0AF /* Products */,
@@ -385,27 +344,90 @@
 		ABB3A56A20A47C430031D0AF /* MegaManMAC */ = {
 			isa = PBXGroup;
 			children = (
+				AB655DB821BD178C00AD1E64 /* Enemy.swift */,
+				ABC6510321C6FD8500D90C90 /* Enemy Explosion Frames */,
+				AB655DBA21BD1C7900AD1E64 /* ShotMan.swift */,
+				ABC6510421C6FD9D00D90C90 /* Level Music Files */,
+				ABC6510521C6FDCE00D90C90 /* Text Images */,
 				ABF99D2E216A1581003E7FF9 /* Fonts */,
 				ABB3A56F20A47C430031D0AF /* Actions.sks */,
-				AB2AD4FB21B80E670099552C /* BG1.png */,
-				AB2AD4FC21B80E670099552C /* BG2.png */,
+				ABC650FD21C6FC5500D90C90 /* Boss Gate Images */,
+				ABC650FC21C6FC3A00D90C90 /* Shot Man Enemy Images */,
+				ABB3A56B20A47C430031D0AF /* AppDelegate.swift */,
+				AB097DAC21B72287003E0AE1 /* Boss Gate.png */,
+				ABB3A57520A47C430031D0AF /* Assets.xcassets */,
+				ABC650FE21C6FC7500D90C90 /* Met Enemy Images */,
+				ABC650FF21C6FC8F00D90C90 /* Enemy Weapons */,
+				ABC6510021C6FCCA00D90C90 /* Flash Man Map Images_Tiles */,
+				ABC6510121C6FCFD00D90C90 /* Sound Effects */,
+				ABC6510221C6FD3100D90C90 /* Particle System Files */,
+				ABE329C520C0A3F700508941 /* CameraActions.sks */,
+				ABB3A58120A47D800031D0AF /* FlashMapTileSet.sks */,
+				AB097DBC21B729E7003E0AE1 /* Background.png */,
+				ABB3A56D20A47C430031D0AF /* GameScene.sks */,
+				ABB3A57120A47C430031D0AF /* GameScene.swift */,
+				AB870D8720B00FB9003010C2 /* Goku.swift */,
+				AB870D8520B00E85003010C2 /* GokuStateMachine.swift */,
+				ABB3A57A20A47C430031D0AF /* Info.plist */,
+				ABB3A57720A47C430031D0AF /* Main.storyboard */,
+				AB4095B920C483350014F553 /* MegaMan.swift */,
+				ABB3A57B20A47C430031D0AF /* MegaManMAC.entitlements */,
+				AB4095BB20C4947E0014F553 /* MegaManStateMachine.swift */,
+				ABE329AB20BC78E800508941 /* Met.swift */,
+				AB1C2699219CC81A009BCCF0 /* MegaManMAC */,
+				ABE329BD20BF4BAB00508941 /* MM_Enemy_Hit.mp3 */,
+				ABB3A57320A47C430031D0AF /* ViewController.swift */,
+			);
+			path = MegaManMAC;
+			sourceTree = "<group>";
+		};
+		ABC650FC21C6FC3A00D90C90 /* Shot Man Enemy Images */ = {
+			isa = PBXGroup;
+			children = (
 				ABFF9A1821BD2A310098F44E /* shotman0.png */,
 				ABFF9A1921BD2A320098F44E /* shotman1.png */,
 				ABFF9A1A21BD2A320098F44E /* shotman2.png */,
 				ABFF9A1B21BD2A320098F44E /* shotman3.png */,
 				ABFF9A1721BD2A310098F44E /* shotman4.png */,
 				ABFF9A1C21BD2A320098F44E /* shotman5.png */,
+			);
+			path = "Shot Man Enemy Images";
+			sourceTree = "<group>";
+		};
+		ABC650FD21C6FC5500D90C90 /* Boss Gate Images */ = {
+			isa = PBXGroup;
+			children = (
+				AB2AD4FB21B80E670099552C /* BG1.png */,
+				AB2AD4FC21B80E670099552C /* BG2.png */,
 				AB2AD4F921B80E670099552C /* BG3.png */,
 				AB2AD4FA21B80E670099552C /* BG4.png */,
 				AB7B905421C06ADB008C5963 /* BG5.png */,
-				ABB3A56B20A47C430031D0AF /* AppDelegate.swift */,
-				AB097DAC21B72287003E0AE1 /* Boss Gate.png */,
-				ABB3A57520A47C430031D0AF /* Assets.xcassets */,
+			);
+			path = "Boss Gate Images";
+			sourceTree = "<group>";
+		};
+		ABC650FE21C6FC7500D90C90 /* Met Enemy Images */ = {
+			isa = PBXGroup;
+			children = (
 				AB555E4921BF11A800812C0B /* met0.png */,
 				AB555E4A21BF11A800812C0B /* met1.png */,
 				AB555E4821BF11A700812C0B /* met2.png */,
 				AB555E4721BF11A700812C0B /* met3.png */,
+			);
+			path = "Met Enemy Images";
+			sourceTree = "<group>";
+		};
+		ABC650FF21C6FC8F00D90C90 /* Enemy Weapons */ = {
+			isa = PBXGroup;
+			children = (
 				AB555E3D21BD60C600812C0B /* enemyBuster.png */,
+			);
+			path = "Enemy Weapons";
+			sourceTree = "<group>";
+		};
+		ABC6510021C6FCCA00D90C90 /* Flash Man Map Images_Tiles */ = {
+			isa = PBXGroup;
+			children = (
 				AB097D8421B5D7B9003E0AE1 /* Boss Room 1.png */,
 				AB097D8B21B5D7BC003E0AE1 /* Boss Room 2.png */,
 				AB097D9021B5D7BD003E0AE1 /* Boss Room 3.png */,
@@ -426,15 +448,6 @@
 				AB097D8721B5D7BA003E0AE1 /* Wiley Sign Top Right Green.png */,
 				AB097D9621B5D7C0003E0AE1 /* Wiley Top Middle Blue.png */,
 				AB097D8C21B5D7BC003E0AE1 /* Wiley Top Middle Green.png */,
-				ABE329BF20BF4CE300508941 /* Buster1.wav */,
-				ABE329AF20BC835B00508941 /* BusterExplosion.sks */,
-				ABE329A320B8E5C000508941 /* BusterParticle.sks */,
-				AB5480532157F6DF004043BD /* ChargeBuster.sks */,
-				ABE329C520C0A3F700508941 /* CameraActions.sks */,
-				ABE329B920BC8A4200508941 /* ChargeBeamExplosion.sks */,
-				ABE329BB20BC8A4F00508941 /* ChargeUp.sks */,
-				ABB3A58120A47D800031D0AF /* FlashMapTileSet.sks */,
-				AB097DBC21B729E7003E0AE1 /* Background.png */,
 				AB097DBA21B729E6003E0AE1 /* Ground Left Blue.png */,
 				AB097DB721B729E5003E0AE1 /* Ground Left Green.png */,
 				AB097DB821B729E5003E0AE1 /* Ground Middle Blue.png */,
@@ -449,41 +462,72 @@
 				AB097DB221B729E2003E0AE1 /* Wall Middle Green.png */,
 				AB097DB321B729E3003E0AE1 /* Wall Top Blue.png */,
 				AB097DB921B729E6003E0AE1 /* Wall Top Green.png */,
-				AB5480552157FE44004043BD /* Flash Man Stage Music.mp3 */,
-				ABB3A56D20A47C430031D0AF /* GameScene.sks */,
-				ABB3A57120A47C430031D0AF /* GameScene.swift */,
-				AB870D8720B00FB9003010C2 /* Goku.swift */,
-				AB870D8520B00E85003010C2 /* GokuStateMachine.swift */,
-				ABB3A57A20A47C430031D0AF /* Info.plist */,
-				ABE329B320BC88E900508941 /* LargeBusterExplosion.sks */,
-				ABB3A57720A47C430031D0AF /* Main.storyboard */,
-				AB4095B920C483350014F553 /* MegaMan.swift */,
-				ABE329B720BC8A0100508941 /* MegamanAura.sks */,
+			);
+			path = "Flash Man Map Images_Tiles";
+			sourceTree = "<group>";
+		};
+		ABC6510121C6FCFD00D90C90 /* Sound Effects */ = {
+			isa = PBXGroup;
+			children = (
+				ABE329BF20BF4CE300508941 /* Buster1.wav */,
 				ABE329C320BF4D8200508941 /* MegamanDefeat.wav */,
-				ABB3A57B20A47C430031D0AF /* MegaManMAC.entitlements */,
-				AB4095BB20C4947E0014F553 /* MegaManStateMachine.swift */,
-				ABE329AB20BC78E800508941 /* Met.swift */,
 				AB1C2697219CC61A009BCCF0 /* Deflect_Buster.wav */,
 				AB1C2695219CC4A5009BCCF0 /* MM_Land.wav */,
-				AB1C2699219CC81A009BCCF0 /* MegaManMAC */,
 				AB1C2693219CC434009BCCF0 /* MM_Hurt.wav */,
-				ABE329BD20BF4BAB00508941 /* MM_Enemy_Hit.mp3 */,
+			);
+			path = "Sound Effects";
+			sourceTree = "<group>";
+		};
+		ABC6510221C6FD3100D90C90 /* Particle System Files */ = {
+			isa = PBXGroup;
+			children = (
+				ABE329AF20BC835B00508941 /* BusterExplosion.sks */,
+				ABE329A320B8E5C000508941 /* BusterParticle.sks */,
+				AB5480532157F6DF004043BD /* ChargeBuster.sks */,
+				ABE329B920BC8A4200508941 /* ChargeBeamExplosion.sks */,
+				ABE329BB20BC8A4F00508941 /* ChargeUp.sks */,
+				ABE329B320BC88E900508941 /* LargeBusterExplosion.sks */,
+				ABE329B720BC8A0100508941 /* MegamanAura.sks */,
 				ABE329B120BC88D200508941 /* TransformUI.sks */,
 				ABB735852183619300FC5640 /* MyParticle.sks */,
 				ABE329C720C3FC0500508941 /* UIMove.sks */,
 				ABE329B520BC897B00508941 /* UIMoveMAC.sks */,
 				ABE329C120BF4D4E00508941 /* UITransform.mp3 */,
-				ABB3A57320A47C430031D0AF /* ViewController.swift */,
 			);
-			path = MegaManMAC;
+			path = "Particle System Files";
+			sourceTree = "<group>";
+		};
+		ABC6510321C6FD8500D90C90 /* Enemy Explosion Frames */ = {
+			isa = PBXGroup;
+			children = (
+				AB555E3F21BD78FB00812C0B /* explosion1.png */,
+				AB555E4121BD78FC00812C0B /* explosion2.png */,
+				AB555E4221BD78FD00812C0B /* explosion3.png */,
+				AB555E4021BD78FC00812C0B /* explosion4.png */,
+			);
+			path = "Enemy Explosion Frames";
+			sourceTree = "<group>";
+		};
+		ABC6510421C6FD9D00D90C90 /* Level Music Files */ = {
+			isa = PBXGroup;
+			children = (
+				ABDAA691219CD56A004FCA02 /* Final Death.mp3 */,
+				AB5480552157FE44004043BD /* Flash Man Stage Music.mp3 */,
+			);
+			path = "Level Music Files";
+			sourceTree = "<group>";
+		};
+		ABC6510521C6FDCE00D90C90 /* Text Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Text Images";
 			sourceTree = "<group>";
 		};
 		ABF99D2E216A1581003E7FF9 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				ABF99D33216A1627003E7FF9 /* megaman_2.ttf */,
-				ABF99D31216A15EB003E7FF9 /* AtariSmall.ttf */,
-				ABF99D2F216A159C003E7FF9 /* Mega-Man-ZX.ttf */,
+				ABC6510621C6FEA300D90C90 /* megaman_2.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -548,49 +592,34 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABFF9A1F21BD2A330098F44E /* shotman1.png in Resources */,
-				ABF99D30216A159C003E7FF9 /* Mega-Man-ZX.ttf in Resources */,
 				AB555E4E21BF11A800812C0B /* met1.png in Resources */,
 				AB097DA521B5D7C0003E0AE1 /* Wiley Sign Top Left Blue.png in Resources */,
-				AB1C26DD219CC81A009BCCF0 /* MegamanAura.sks in Resources */,
-				ABF99D34216A1627003E7FF9 /* megaman_2.ttf in Resources */,
 				AB097DA221B5D7C0003E0AE1 /* Wiley Bottom Corner Blue.png in Resources */,
-				AB1C26D0219CC81A009BCCF0 /* Deflect_Buster.wav in Resources */,
 				AB097DAF21B7251E003E0AE1 /* Boss Room 4.png in Resources */,
 				AB1C26D6219CC81A009BCCF0 /* GameScene.sks in Resources */,
 				AB097D9B21B5D7C0003E0AE1 /* Wiley Sign Bottom Left Blue.png in Resources */,
-				AB1C26CF219CC81A009BCCF0 /* ChargeUp.sks in Resources */,
-				AB1C26E8219CC81B009BCCF0 /* UIMoveMAC.sks in Resources */,
-				AB1C26DB219CC81A009BCCF0 /* LargeBusterExplosion.sks in Resources */,
 				AB097DC421B729E8003E0AE1 /* Wall Bottom Blue.png in Resources */,
-				ABF99D32216A15EB003E7FF9 /* AtariSmall.ttf in Resources */,
-				AB1C26E7219CC81B009BCCF0 /* UIMove.sks in Resources */,
-				AB1C26D4219CC81A009BCCF0 /* Mega-Man-ZX.ttf in Resources */,
 				ABB3A58220A47D800031D0AF /* FlashMapTileSet.sks in Resources */,
-				AB1C26E6219CC81B009BCCF0 /* TransformUI.sks in Resources */,
 				ABB3A56E20A47C430031D0AF /* GameScene.sks in Resources */,
 				ABE329C420BF4D8300508941 /* MegamanDefeat.wav in Resources */,
 				AB097DA821B5D7C0003E0AE1 /* Wiley Sign Bottom Right Blue.png in Resources */,
 				ABE329B420BC88EA00508941 /* LargeBusterExplosion.sks in Resources */,
 				AB097DC021B729E8003E0AE1 /* Ground Middle Green.png in Resources */,
 				AB097DA121B5D7C0003E0AE1 /* Wiley Sign Bottom Left Green.png in Resources */,
-				AB2AD4FE21B80E670099552C /* BG4.png in Resources */,
-				AB1C26E2219CC81A009BCCF0 /* MM_Hurt.wav in Resources */,
 				ABB735862183619300FC5640 /* MyParticle.sks in Resources */,
 				AB097DA321B5D7C0003E0AE1 /* Boss Room 3.png in Resources */,
 				ABE329BC20BC8A4F00508941 /* ChargeUp.sks in Resources */,
 				AB555E3E21BD60C700812C0B /* enemyBuster.png in Resources */,
 				ABE329B220BC88D200508941 /* TransformUI.sks in Resources */,
-				AB1C26CB219CC81A009BCCF0 /* BusterParticle.sks in Resources */,
 				AB097DA421B5D7C0003E0AE1 /* Wiley Sign Bottom Right Green.png in Resources */,
+				ABC6510721C6FEA300D90C90 /* megaman_2.ttf in Resources */,
 				ABE329BE20BF4BAC00508941 /* MM_Enemy_Hit.mp3 in Resources */,
 				AB1C26C7219CC81A009BCCF0 /* Main.storyboard in Resources */,
 				AB555E4621BD78FD00812C0B /* explosion3.png in Resources */,
 				AB555E4521BD78FD00812C0B /* explosion2.png in Resources */,
 				AB097DC821B729E8003E0AE1 /* Wall Top Green.png in Resources */,
 				ABE329BA20BC8A4200508941 /* ChargeBeamExplosion.sks in Resources */,
-				AB1C26CD219CC81A009BCCF0 /* ChargeBeamExplosion.sks in Resources */,
 				AB097DC321B729E8003E0AE1 /* Wall Bottom Green.png in Resources */,
-				AB1C26CE219CC81A009BCCF0 /* ChargeBuster.sks in Resources */,
 				ABE329B820BC8A0100508941 /* MegamanAura.sks in Resources */,
 				ABFF9A2221BD2A330098F44E /* shotman5.png in Resources */,
 				ABE329C820C3FC0500508941 /* UIMove.sks in Resources */,
@@ -605,16 +634,12 @@
 				AB097DBF21B729E8003E0AE1 /* Single Green.png in Resources */,
 				AB097D9E21B5D7C0003E0AE1 /* Boss Room 2.png in Resources */,
 				ABE329C020BF4CE300508941 /* Buster1.wav in Resources */,
-				AB1C26E3219CC81A009BCCF0 /* MM_Land.wav in Resources */,
-				AB2AD4FF21B80E670099552C /* BG1.png in Resources */,
 				ABFF9A1E21BD2A330098F44E /* shotman0.png in Resources */,
-				AB1C26D1219CC81A009BCCF0 /* Flash Man Stage Music.mp3 in Resources */,
 				AB097DA621B5D7C0003E0AE1 /* Wiley Sign Top Left Green.png in Resources */,
 				ABE329B020BC835B00508941 /* BusterExplosion.sks in Resources */,
 				AB1C26C4219CC81A009BCCF0 /* Actions.sks in Resources */,
 				AB097DA721B5D7C0003E0AE1 /* Wiley Sign Top Right Blue.png in Resources */,
 				ABE329A620B8E5C000508941 /* Assets.xcassets in Resources */,
-				AB2AD50021B80E670099552C /* BG2.png in Resources */,
 				AB1C2698219CC61B009BCCF0 /* Deflect_Buster.wav in Resources */,
 				ABE329A520B8E5C000508941 /* BusterParticle.sks in Resources */,
 				AB1C26DA219CC81A009BCCF0 /* Info.plist in Resources */,
@@ -626,20 +651,16 @@
 				AB1C26D5219CC81A009BCCF0 /* megaman_2.ttf in Resources */,
 				AB097D9721B5D7C0003E0AE1 /* Boss Room 1.png in Resources */,
 				AB097DC221B729E8003E0AE1 /* Wall Top Blue.png in Resources */,
-				AB1C26E4219CC81A009BCCF0 /* MyParticle.sks in Resources */,
 				ABDAA692219CD56B004FCA02 /* Final Death.mp3 in Resources */,
-				AB1C26C9219CC81A009BCCF0 /* Buster1.wav in Resources */,
 				AB097DCB21B729E8003E0AE1 /* Background.png in Resources */,
 				AB1C26C6219CC81A009BCCF0 /* Assets.xcassets in Resources */,
 				AB1C26C8219CC81A009BCCF0 /* buster0.png in Resources */,
-				AB1C26DE219CC81A009BCCF0 /* MegamanDefeat.wav in Resources */,
 				AB1C26E1219CC81A009BCCF0 /* MM_Enemy_Hit.mp3 in Resources */,
 				AB1C26D2219CC81A009BCCF0 /* FlashMapTileSet.sks in Resources */,
 				AB097DC621B729E8003E0AE1 /* Ground Left Green.png in Resources */,
 				ABDAA690219CCB03004FCA02 /* Main.storyboard in Resources */,
 				AB097D9D21B5D7C0003E0AE1 /* Wiley Side Green.png in Resources */,
 				AB097DAD21B72288003E0AE1 /* Boss Gate.png in Resources */,
-				AB1C26CA219CC81A009BCCF0 /* BusterExplosion.sks in Resources */,
 				ABE329C620C0A3F900508941 /* CameraActions.sks in Resources */,
 				AB5480542157F6E0004043BD /* ChargeBuster.sks in Resources */,
 				AB097D9C21B5D7C0003E0AE1 /* Wiley Bottom Corner Green.png in Resources */,
@@ -650,11 +671,9 @@
 				AB097D9921B5D7C0003E0AE1 /* Wiley Bottom Blue.png in Resources */,
 				AB555E4C21BF11A800812C0B /* met2.png in Resources */,
 				AB097D9F21B5D7C0003E0AE1 /* Wiley Top Middle Green.png in Resources */,
-				AB2AD4FD21B80E670099552C /* BG3.png in Resources */,
 				ABE329B620BC897C00508941 /* UIMoveMAC.sks in Resources */,
 				AB7B905521C06ADC008C5963 /* BG5.png in Resources */,
 				AB555E4D21BF11A800812C0B /* met0.png in Resources */,
-				AB1C26D3219CC81A009BCCF0 /* AtariSmall.ttf in Resources */,
 				ABB3A57920A47C430031D0AF /* Main.storyboard in Resources */,
 				AB097DA921B5D7C0003E0AE1 /* Wiley Top Middle Blue.png in Resources */,
 				AB555E4421BD78FD00812C0B /* explosion4.png in Resources */,
@@ -662,7 +681,6 @@
 				AB097DCD21B729E8003E0AE1 /* Ground Right Green.png in Resources */,
 				ABE329C220BF4D4F00508941 /* UITransform.mp3 in Resources */,
 				AB1C26CC219CC81A009BCCF0 /* CameraActions.sks in Resources */,
-				AB1C26E9219CC81B009BCCF0 /* UITransform.mp3 in Resources */,
 				AB555E4321BD78FD00812C0B /* explosion1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
